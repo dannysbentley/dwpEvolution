@@ -75,7 +75,9 @@
   <ItemGroup>
     <Compile Include="appRibbon.cs" />
     <Compile Include="CommandRevit2Rhino.cs" />
+    <Compile Include="Converters\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Converters\RhinoToObjConverter.cs" />
     <Compile Include="UI_Revit2Rhino.xaml.cs">
       <DependentUpon>UI_Revit2Rhino.xaml</DependentUpon>
     </Compile>
