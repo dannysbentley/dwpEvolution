@@ -1,0 +1,10 @@
+<RevitAddIns>
+	<AddIn Type="Application">
+	  <Name>Application dwpEvolution</Name>
+	  <Assembly>dwpEvolution.dll</Assembly>
+	  <FullClassName>dwpEvolution.appRibbon</FullClassName>
+	  <ClientId>a4de6dba-2e89-46e3-af3a-70c32c402397</ClientId>
+	  <VendorId>dwp design world partnership</VendorId>
+	  <VendorDescription>Danny Bentley, dwp.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
