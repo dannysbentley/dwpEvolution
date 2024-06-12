@@ -23,7 +23,7 @@ namespace dwpEvolution
                 RibbonPanel dwpHelpPanel = a.CreateRibbonPanel("dwp Rhino", "dwp | Rhino Tools");
 
                 // Add buttons to the first panel
-                CreateButton(dwpHelpPanel, "Health", "BIM Health", assemblyPath, "dwpBeyond.CommandHealth", "dwpBIMHealth.png", assemblyDir);
+                CreateButton(dwpHelpPanel, "Rhino", "Rhino2", assemblyPath, "dwpEvolution.CommandRevit2Rhino", "dwpBIMHealth.png", assemblyDir);
             }
             catch (Exception ex)
             {
